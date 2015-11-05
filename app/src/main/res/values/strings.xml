@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Selfinote</string>
+    <string name="create_sample_data">GO Dummy</string>
+    <string name="delete_all_notes">Format c:/</string>
+    <string name="are_you_sure">Echt?</string>
+    <string name="all_deleted">Formatting....</string>
+    <string name="title_activity_editor">EditorActivity</string>
+
+
+
+    <string name="new_note">Nieuwe note</string>
+    <string name="note_updated">Updated</string>
+    <string name="action_delete">Verwijder</string>
+    <string name="note_deleted">Aaaaaand it\'s gone</string>
+    <string name="note">Note</string>
+    <string name="add_text_here">Voeg tekst toe</string>
+</resources>
